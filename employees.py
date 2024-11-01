@@ -4,11 +4,6 @@ import mysql.connector
 from mysql.connector import Error
 from dotenv import load_dotenv
 import os
-import streamlit as st
-import mysql.connector
-from mysql.connector import Error
-from dotenv import load_dotenv
-import os
 
 # Cargar las variables de entorno y establecer conexión a la base de datos
 load_dotenv()
